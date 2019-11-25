@@ -12,5 +12,6 @@ https://play.google.com/store/apps/details?id=fi.tamk.gameproject
 Website:
 http://18tiko2f.projects.tamk.fi/index_en.html
 
-Code: Miko Kauhanen & Lauri Latva-Kyyny
+Code: Miko Kauhanen & Lauri Latva-Kyyny 
+
 Graphics: Teemu Kivioja
